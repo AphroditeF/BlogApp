@@ -1,0 +1,5 @@
+/Users/afroditiflora/Projects/blogApp/blogApp/bin/Debug/blogApp.exe
+/Users/afroditiflora/Projects/blogApp/blogApp/bin/Debug/blogApp.pdb
+/Users/afroditiflora/Projects/blogApp/blogApp/obj/x86/Debug/blogApp.csproj.CoreCompileInputs.cache
+/Users/afroditiflora/Projects/blogApp/blogApp/obj/x86/Debug/blogApp.exe
+/Users/afroditiflora/Projects/blogApp/blogApp/obj/x86/Debug/blogApp.pdb
